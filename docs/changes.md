@@ -1,6 +1,6 @@
 # Magisk Changelog
 
-### v29.0
+### v29.,0
 
 - [General] Massive internal refactoring and code migration
 - [App] Support downloading module zip files with XZ compression
